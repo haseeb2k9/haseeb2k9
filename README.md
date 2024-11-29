@@ -1,30 +1,30 @@
 
-👋 Hi, I'm a Full-stack Developer and DevOps Engineer. Over 10+ years of professional experience in Web Development and 5+ years of experience in Amazon Web Services. 
+👋 Hi, I'm a Full-stack Developer and DevOps Engineer with over 10+ years of professional experience in Web Development and 5+ years of experience in Amazon Web Services. 
 
-Over the years, I have worked on core product development as a software consultant and DevOps Engineer, as well as a Project manager. With exposure ranging from:
+Over the years, I have worked on core product development as a software consultant, DevOps Engineer, and Project manager. With exposure ranging from:
 
 Web Developer
 - Complete LAMP (Linux / Apache / Mysql / PHP) stack
 - UI / UX (Smarty, XHTML 1.0, HTML5, CSS3, Javascript, and jQuery)
 - Responsive web design (media queries and Bootstrap framework)
-- Several MVC based frameworks (CodeIgniter, Yii)
-- Major popular PHP based Content Management System(WordPress)
+- Several MVC-based frameworks (CodeIgniter, Yii)
+- Major popular PHP-based Content Management System(WordPress)
 - Major popular e-commerce platforms (osCommerce, OpenCart)
 - Database optimization
 - Cross-platform hybrid mobile app development (JQuery Mobile, Ionic, Angular Js, PhoneGap, Cordova)
-- APIs (Facebook, Google, Fate secret, Brightcove)
+- APIs (Facebook, Google, Fate Secret, Brightcove)
 - Payment gateways (Paypal, CCBill, First data, NMI)
 
 DevOps Engineer
 - Knowledge of  AWS, Azure, DigitalOcean, Google Cloud, and Cloud Computing concepts.
-- Deploying an Application in Cloud
+- Deploying an Application in the Cloud
 - Experience in Managing, Maintenance, and Linux environments.
 - Deploys new modules, upgrades, and fixes to the production environment.
 - Experience management of a Huge Production Environment
 - Serverless (Lambda, Azure Functions, CloudFlars Workers)
-- Experience with the Versioning control system - Git, CI / CD, Docker, Kubernetes.
+- Experience with versioning control systems like Git, CI / CD, Docker, and Kubernetes.
 
-continually pursuing a wide spectrum of web and mobile and cloud-related technologies.
+Continually pursuing a wide spectrum of web, mobile, and cloud-related technologies.
 
 🌱 Key Skills :
 PHP, HTML, NodeJs, jQuery, JavaScript, Ajax, JSON, html5, Amazon Web Services, AWS EC2, Amazon Elastic Load Balancing, Auto Scaling, Amazon Route 53, Amazon S3, CI / CD.
